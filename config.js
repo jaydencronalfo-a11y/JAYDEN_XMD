@@ -14,7 +14,7 @@ module.exports = {
     NEWS_JSON_URL: '',
     BOT_NAME: 'JAYDEN XMD',
     OWNER_NAME: 'JAYDEN',
-    OWNER_NUMBER: '255619159794',
+    OWNER_NUMBER: '255696923001',
     BOT_VERSION: '2.0.0 ʙᴇᴛᴀ',
     BOT_FOOTER: '> © JAYDEN XMD',
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbBe2WY7j6g9hbbT6F0N'
